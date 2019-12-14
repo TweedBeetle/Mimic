@@ -1,2 +1,2 @@
 # Mimic
-Creating image reproductions from polygons through evolutionary programming
+This was a project aimed at creating image reproductions using polygons through evolutionary optimisation of polygon parameters.
